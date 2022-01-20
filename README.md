@@ -1,4 +1,4 @@
-Hi, I’m @Ruby-Dragon\
+Hi, I’m @Ruby-Dragon!\
 I’m interested in: occasional projects for practice.\
 I’m currently learning: Java.\
 I’m looking to collaborate: on nothing atm.\
