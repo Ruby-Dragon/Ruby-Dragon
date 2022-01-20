@@ -1,3 +1,5 @@
+# cout << Hello World!
+
 Hi, I’m @Ruby-Dragon!\
 I’m interested in: occasional projects for practice.\
 I’m currently learning: Java.\
