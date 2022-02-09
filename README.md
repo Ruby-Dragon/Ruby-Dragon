@@ -1,4 +1,4 @@
-# cout << Hello World!
+# std::cout << "Hello World!";
 
 Hi, I’m @Ruby-Dragon!\
 I’m interested in: occasional projects for practice and CPP.\
