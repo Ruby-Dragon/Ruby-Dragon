@@ -10,6 +10,6 @@ My favorite language (as of right now) is C++, and I usually use Windows (sorry)
 
 #### I'm not really interested in collaboration right now, but if you are interested, feel free to pull request away!
 
-Currently learning: Unreal (4 and 5), CPP, OpenGL, GLSL, Rust, Java, and drawing (I'll make my own pfp eventually, but it may be awhile)
+Currently learning: Unreal (4 and 5), CPP, OpenGL, GLSL, Rust, Java, and drawing!
 
 I usually use git through cli, and sometimes use integration in JetBrains IDEs. Looking forward to joining some Open Source projects!
