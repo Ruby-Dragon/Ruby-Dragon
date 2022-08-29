@@ -18,5 +18,5 @@ I usually use git through cli, and sometimes use integration in JetBrains IDEs. 
 
 <p align="center">
 <img height=350 width=450 src="https://github-readme-stats.vercel.app/api?username=Ruby-Dragon&show_icons=true&theme=github_dark"></img>
-<img height=250 width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Dragon&langs_count=9&layout=compact&theme=github_dark"></img>
+<img height=250 width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Dragon&langs_count=9&layout=compact&theme=github_dark&count_private=true"></img>
 </p>
