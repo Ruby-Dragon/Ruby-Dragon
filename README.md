@@ -14,6 +14,8 @@ Currently learning: Unreal (4 and 5), CPP, Godot, Shaders/Materials, and Blender
 
 I usually use git through cli, and sometimes use integration in JetBrains IDEs. Looking forward to joining some Open Source projects!
 
+Check out my [website](https://ruby-dragon.github.io/)
+
 ### Please feel free to correct my mistakes, I would rather learn than just be ignorant. Even on my own repos, please tell me if I am doing something wrong (don't be mean about it tho). Thank you!
 
 <p align="center">
