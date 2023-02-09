@@ -6,7 +6,7 @@ I'm *@Ruby-Dragon*, hopeful game dev!
 
 I'm still learning, and most of my projects will go here. I want to make them opensource so others who are still learning can use them as examples.
 
-My favorite language (as of right now) is C++, and I usually use Windows on my main machine, but have a secondary linux machine.
+My favorite language (as of right now) is C, and I usually use Windows on my main machine, but have a secondary linux machine.
 
 #### If you are interested in collaboration, feel free to pull request away!
 
