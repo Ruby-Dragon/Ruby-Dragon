@@ -10,7 +10,7 @@ My favorite language (as of right now) is C, and I usually use Windows on my mai
 
 #### If you are interested in collaboration, feel free to pull request away!
 
-Currently learning: Unreal (4 and 5), CPP, Godot, Shaders/Materials, QT, and Blender!
+Currently learning: Unreal (4 and 5), Godot, Shaders/Materials, QT, and Blender!
 
 I usually use git through cli, and sometimes use integration in JetBrains IDEs. Looking forward to joining some Open Source projects!
 
