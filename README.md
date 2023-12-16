@@ -17,8 +17,3 @@ I usually use git through cli, and sometimes use integration in JetBrains IDEs. 
 Check out my [website](https://ruby-dragon.github.io/notes/) if you want to read my rambling
 
 ### Please feel free to correct my mistakes, I would rather learn than just be ignorant. Even on my own repos, please tell me if I am doing something wrong (don't be mean about it tho). Thank you!
-
-<p align="center">
-<img height=350 width=450 src="https://github-readme-stats.vercel.app/api?username=Ruby-Dragon&show_icons=true&theme=github_dark&count_private=true"></img>
-<img height=250 width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Dragon&langs_count=9&layout=compact&theme=github_dark&count_private=true"></img>
-</p>
