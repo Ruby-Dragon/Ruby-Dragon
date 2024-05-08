@@ -1,7 +1,5 @@
 # std::cout << "Hello World!";
 
-### Sup Y'all!
-
 I'm *@Ruby-Dragon*, aspiring graphics programmer!
 
 I'm still learning and most of my projects will go here as an archive of my progress.
