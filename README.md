@@ -8,7 +8,7 @@ My most used languages (as of right now) are C, C++, and C# for Godot, and I pri
 
 #### If you are interested in collaboration, feel free to pull request away!
 
-Currently learning: Godot, Shaders/Materials, OpenGL, and Blender!
+Currently learning: Godot, Shaders/Materials, and Blender!
 
 Looking forward to joining some Open Source projects!
 
