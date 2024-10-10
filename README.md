@@ -4,7 +4,7 @@ I'm *@Ruby-Dragon*, aspiring graphics programmer!
 
 I'm still learning and most of my projects will go here as an archive of my progress.
 
-My most used languages (as of right now) are C, C++, and C# for Godot, and I usually use Windows on my main machine, but have a secondary Linux machine.
+My most used languages (as of right now) are C, C++, and C# for Godot, and I primairly use EndeavourOS Linux on all my machines.
 
 #### If you are interested in collaboration, feel free to pull request away!
 
